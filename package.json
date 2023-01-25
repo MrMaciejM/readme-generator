@@ -1,0 +1,28 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A terminal app used to speed up the process of generating and populating readme information ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMaciejM/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "readme",
+    "terminal"
+  ],
+  "author": "Maciej Matulewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrMaciejM/readme-generator/issues"
+  },
+  "homepage": "https://github.com/MrMaciejM/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
